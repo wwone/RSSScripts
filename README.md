@@ -12,3 +12,7 @@ to my phone for reading at leisure.
 
 Each script contains its own simple documentation, and all of them
 use readily-available Linux/Unix commands, such as "wget".
+
+In order for the resulting HTML content to be simple, there
+are Perl scripts that filter out a lot of junk from each
+feed.
