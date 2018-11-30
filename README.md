@@ -22,3 +22,7 @@ At this point, we have scripts, and supporting Perl code for:
 1) getrush.sh -- extract HTML from Rush Limbaugh RSS feed 
 
 2) getace.sh -- extract HTML from Ace of Spades RSS feed
+
+
+I've added a Java program that walks the tree of DOM
+output from some RSS feeds. More to add soon....
