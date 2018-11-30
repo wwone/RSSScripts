@@ -25,6 +25,8 @@ At this point, we have scripts, and supporting Perl code for:
 
 
 I've added a Java program that walks the tree of DOM
-output from some RSS feeds. 
+output from some RSS feeds. Following scripts use that,
+rather than simplified Perl. (These other feeds are just
+too complex for dumbed-down Perl)
 
 3) getchicago.sh -- extract HTML from ChicagoBoyz RSS feed
