@@ -1,0 +1,2 @@
+This script assumes you have the "wget", "perl", and "grep" commands
+on your Linux/Unix system.
