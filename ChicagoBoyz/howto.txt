@@ -1,0 +1,8 @@
+To run this script, you will need to have compiled the ReadXMLDOM program. See the "java" folder for 
+source and script to compile.
+
+This script assumes that the compiled object "ReadXMLDOM.class" is in the current
+directory.
+
+This script assumes that the "wget" command is available on your Linux/Unix
+system.
