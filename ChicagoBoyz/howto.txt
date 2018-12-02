@@ -4,5 +4,6 @@ source and script to compile.
 This script assumes that the compiled object "ReadXMLDOM.class" is in the current
 directory.
 
-This script assumes that the "wget" command is available on your Linux/Unix
-system.
+This script assumes that the "wget" and "java" commands are available on your Linux/Unix
+system. It is also expected that the "javac" compilation command was needed to
+compile the Java code.
