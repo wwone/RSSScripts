@@ -1,0 +1,2 @@
+This script assumes that you have the "wget" and "perl" commands on
+your Linux/Unix system. There are no other dependencies.
