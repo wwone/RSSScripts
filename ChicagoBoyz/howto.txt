@@ -1,9 +1,12 @@
 To run this script, you will need to have compiled the ReadXMLDOM program. See the "java" folder for 
-source and script to compile.
+source and script to compile. This working folder now contains a "ReadXMLDOM.class" executable
+file. You may use it, if you don't have a Java compiler available, but do have
+a Java runtime system.
 
 This script assumes that the compiled object "ReadXMLDOM.class" is in the current
 directory.
 
 This script assumes that the "wget" and "java" commands are available on your Linux/Unix
 system. It is also expected that the "javac" compilation command was needed to
-compile the Java code.
+compile the Java code, if you use that, rather than the "ReadXMLDOM.class" file in
+this folder.
