@@ -35,3 +35,9 @@ for the program. Thus, if you don't have a Java compiler, but
 do have a Java runtime, just use the "class" file supplied.
 
 3) ChicagoBoyz/getchicago.sh -- extract HTML from ChicagoBoyz RSS feed
+
+4) ZMan/getzman.sh -- extract HTML from ZMan RSS feed
+
+5) ColdFury/getcold.sh -- extract HTML from Cold Fury RSS feed
+
+6) OnlinePhotographer/getphoto.sh -- extract HTML from Online Photographer RSS feed
