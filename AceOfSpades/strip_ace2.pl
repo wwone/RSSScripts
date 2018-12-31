@@ -1,7 +1,10 @@
 #
+# reading the already filtered HTML output of the "ace" extractor
+# this is the 2nd stage after the comments extractor
+#
 # ace stripper (more)
 #
-# ONLY show items between certain markers
+# ONLY retain items between certain markers
 #
 $state = 0;
 while (<>)
