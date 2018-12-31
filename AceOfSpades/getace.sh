@@ -17,3 +17,4 @@ wget -O acer http://ace.mu.nu/index.rdf
 perl ace.pl <acer |sh
 # all_ace.html has everything, strip comments
 perl strip_ace_comments.pl <all_ace.html >ace_stripped.html
+perl strip_ace2.pl <ace_stripped.html >ace_final.html
